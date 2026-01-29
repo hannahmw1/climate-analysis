@@ -1,4 +1,5 @@
-import sys
+""" Climate Analysis Tools"""
+ximport sys
 import temp_conversion
 import signal
 signal.signal(signal.SIGPIPE, signal.SIG_DFL)
