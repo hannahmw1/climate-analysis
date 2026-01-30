@@ -1,4 +1,4 @@
-""" Climate Analysis Tools - here is a change"""
+""" Climate Analysis Tools"""
 ximport sys
 import temp_conversion
 import signal
